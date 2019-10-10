@@ -1,2 +1,2 @@
-# 05-Space-shooteer
+# 05-Space-shooter
 assignment
