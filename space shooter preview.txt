@@ -1,0 +1,39 @@
+Name:Devarshi Bhadouria
+Date:10/19/2019
+Project: P05-Space Shooter
+Peer's repository: https://github.com/hpannu17/05-Space-shooteer
+
+
+
+What is something you learned by reviewing your peer's project?
+I learned that the project has some run-time error. 
+
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+I'm not sure if there is somthing as the game doesn't work
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+Try the video for Space shooter that was posted in extra resources to understand the structure and the working of the game
+ 
+
+What could have been clearer or better commented?
+Nothing. There were enough comments.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+I was confused why there was a runtime-error. There are usually syntax errors in a finished project.
+ 
+
+Does the repository contain an appropriate LICENSE?
+It does.
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+Explain what was confusing since in this case the project has a run-time error. It helps in debugging for the peer review.
+
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+I was confused a lot on this too. But hey you tried. That's all that matters. I looked up python arcade on google basically to learn. Try this link : http://arcade.academy/
